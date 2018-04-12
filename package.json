@@ -1,6 +1,6 @@
 {
   "name": "eslint-report-by-rule",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Generate a report in which eslint error output is organized by rule",
   "bin": {
     "eslint-report-by-rule": "./bin/eslint-report-by-rule.js"
