@@ -4,7 +4,9 @@
   "description": "create eslint report by rule",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "format": "eslint --fix index.js",
+    "test": "eslint index.js"
+
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/isoppp/eslint-report-by-rule/issues"
   },
-  "homepage": "https://github.com/isoppp/eslint-report-by-rule#readme"
+  "homepage": "https://github.com/isoppp/eslint-report-by-rule#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
 }
