@@ -8,7 +8,7 @@ Generate a report in which eslint error output is organized by rule
 
 ## Usage
 
-`npx eslint-report-by-rule "yarn --silent run eslint -f json`
+`npx eslint-report-by-rule "yarn --silent run eslint -f json"`
 
 ## output example
 
