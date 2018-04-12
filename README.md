@@ -8,7 +8,7 @@ Generate a report in which eslint error output is organized by rule
 
 ## Usage
 
-`npx eslint-report-by-rule "yarn --silent run eslint -f json"`
+`npx eslint-report-by-rule "yarn --silent run eslint -f json example/has-error.js"`
 
 ## output example
 
@@ -17,3 +17,8 @@ Generate a report in which eslint error output is organized by rule
         "no-console": 1
 }
 ```
+
+## similar tools
+
+- (this)__[eslint-report-by-rule](https://github.com/isoppp/eslint-report-by-rule)__ : generate a report with [eslint](https://github.com/eslint/eslint)
+- __[stylelint-report-by-rule](https://github.com/isoppp/eslint-report-by-rule)__ : generate a report with [stylelint](https://github.com/stylelint/stylelint)
