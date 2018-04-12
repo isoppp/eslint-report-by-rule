@@ -21,4 +21,4 @@ Generate a report in which eslint error output is organized by rule
 ## similar tools
 
 - (this)__[eslint-report-by-rule](https://github.com/isoppp/eslint-report-by-rule)__ : generate a report with [eslint](https://github.com/eslint/eslint)
-- __[stylelint-report-by-rule](https://github.com/isoppp/eslint-report-by-rule)__ : generate a report with [stylelint](https://github.com/stylelint/stylelint)
+- __[stylelint-report-by-rule](https://github.com/isoppp/stylelint-report-by-rule)__ : generate a report with [stylelint](https://github.com/stylelint/stylelint)
