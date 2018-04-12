@@ -1,6 +1,6 @@
 {
   "name": "eslint-report-by-rule",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "create eslint report by rule",
   "main": "index.js",
   "scripts": {
