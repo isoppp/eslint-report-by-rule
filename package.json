@@ -1,12 +1,11 @@
 {
   "name": "eslint-report-by-rule",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generate a report in which eslint error output is organized by rule",
   "main": "index.js",
   "scripts": {
     "format": "eslint --fix index.js",
     "test": "eslint index.js"
-
   },
   "repository": {
     "type": "git",
