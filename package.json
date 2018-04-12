@@ -2,6 +2,9 @@
   "name": "eslint-report-by-rule",
   "version": "0.1.0",
   "description": "Generate a report in which eslint error output is organized by rule",
+  "bin": {
+    "eslint-report-by-rule": "./bin/eslint-report-by-rule.js"
+  },
   "main": "index.js",
   "scripts": {
     "format": "eslint --fix index.js",
