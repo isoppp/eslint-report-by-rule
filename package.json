@@ -1,0 +1,25 @@
+{
+  "name": "eslint-report-by-rule",
+  "version": "0.1.0",
+  "description": "create eslint report by rule",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isoppp/eslint-report-by-rule.git"
+  },
+  "keywords": [
+    "eslint",
+    "node.js",
+    "javascript",
+    "tool"
+  ],
+  "author": "isoppp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isoppp/eslint-report-by-rule/issues"
+  },
+  "homepage": "https://github.com/isoppp/eslint-report-by-rule#readme"
+}
