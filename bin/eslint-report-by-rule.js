@@ -1,3 +1,10 @@
+#!/usr/bin/env node
+
+/**
+ * @fileoverview Main CLI that is run via the eslint-report-by-rule command.
+ * @author isoppp
+ */
+
 const argv = process.argv
 const cmd = argv[argv.length - 1]
 const spawnSync = require('child_process').spawnSync
