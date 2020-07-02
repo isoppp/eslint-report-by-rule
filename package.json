@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/isoppp/eslint-report-by-rule#readme",
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^7.3.1"
   }
 }
